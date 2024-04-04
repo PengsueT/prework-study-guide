@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-To use this Pre-work Study Guide, you can review the notes in eaach section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows).
+To use this Pre-work Study Guide, you can review the notes in each section. For suggestions on what to study first, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows).
 
 ## Credits
 
